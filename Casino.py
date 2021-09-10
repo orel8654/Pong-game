@@ -1,5 +1,5 @@
 '''
-Mini - CasinoGame
+Casino Royal 2.0
 
 Тренировка ООП
 Модуль рандом
