@@ -4,7 +4,7 @@ Pong. Python
 
 Использовался язык Python3
 
-Библиотека Tirtle
+Библиотека Turtle
 
 P.S.
 
